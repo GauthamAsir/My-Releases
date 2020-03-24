@@ -9,3 +9,5 @@
 [RJ Sweets Admin Auto E-Mailer](https://firebasestorage.googleapis.com/v0/b/agjsproject.appspot.com/o/updates%2Frj_sweets_emailer_1.0_21-02-2020.apk?alt=media&token=25f13ef1-a181-4b41-bc00-23505c8f6629)
 
 [RJ Sweets User/Admin/Delivery](https://firebasestorage.googleapis.com/v0/b/agjsproject.appspot.com/o/updates%2Frj_sweets_v3.6_18-02-2020.apk?alt=media&token=7e541813-b947-4c8a-ae07-2755ec76f9bc)
+
+[AGJS Hangouts](https://firebasestorage.googleapis.com/v0/b/agjs-hangouts.appspot.com/o/updates%2Fagjs_hangouts_24-03-2020.apk?alt=media&token=57382897-8494-4dde-a999-b13c4dc59b04)
