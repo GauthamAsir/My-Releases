@@ -1,0 +1,287 @@
+{
+  "Feedback" : {
+    "feedQuestions" : {
+      "01" : {
+        "bad" : "0",
+        "fno" : "01",
+        "fquestion" : "How was the overall experience of the app",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "02" : {
+        "bad" : "0",
+        "fno" : "02",
+        "fquestion" : "Was our environment user friendly",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "03" : {
+        "bad" : "0",
+        "fno" : "03",
+        "fquestion" : "How was the delivery services",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "04" : {
+        "bad" : "0",
+        "fno" : "04",
+        "fquestion" : "How quick was our contact services",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "05" : {
+        "bad" : "0",
+        "fno" : "05",
+        "fquestion" : "Was our price justifcable",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "06" : {
+        "bad" : "0",
+        "fno" : "06",
+        "fquestion" : "Was our product same as displayed in the image",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "07" : {
+        "bad" : "0",
+        "fno" : "07",
+        "fquestion" : "Was our order updates on time",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "08" : {
+        "bad" : "0",
+        "fno" : "08",
+        "fquestion" : "Did you encounter any bugs in our application",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "09" : {
+        "bad" : "0",
+        "fno" : "09",
+        "fquestion" : "How satisfied are you with the quality of the product",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      },
+      "10" : {
+        "bad" : "0",
+        "fno" : "10",
+        "fquestion" : "How satisfy are you with the product selection",
+        "good" : "0",
+        "great" : "0",
+        "neutral" : "0",
+        "very_bad" : "0"
+      }
+    }
+  },
+  "Sweets" : {
+    "01" : {
+      "avaQuantity" : "0",
+      "description" : "Quantity 1 Packet, contains 8pcs",
+      "discount" : "90",
+      "image" : "add a image url for sweet",
+      "name" : "Ladoo",
+      "price" : "50"
+    },
+    "02" : {
+      "avaQuantity" : "2",
+      "description" : "Quantity 1 Packet, contains 250gm test",
+      "discount" : "10",
+      "image" : "add a image url for sweet",
+      "name" : "Chikki",
+      "price" : "50"
+    },
+    "03" : {
+      "avaQuantity" : "12",
+      "description" : "Quantity 1 Packet,contains 8pcs",
+      "discount" : "20",
+      "image" : "add a image url for sweet",
+      "name" : "Rasgulla",
+      "price" : "70"
+    },
+    "04" : {
+      "avaQuantity" : "7",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "50",
+      "image" : "add a image url for sweet",
+      "name" : "Cham-Cham",
+      "price" : "100"
+    },
+    "05" : {
+      "avaQuantity" : "6",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "80",
+      "image" : "add a image url for sweet",
+      "name" : "Barfi",
+      "price" : "70"
+    },
+    "06" : {
+      "avaQuantity" : "6",
+      "description" : "Quantity 1 Packet, contains 8pcs",
+      "discount" : "70",
+      "image" : "add a image url for sweet",
+      "name" : "Gulab Jamun",
+      "price" : "50"
+    },
+    "07" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Mysore pak",
+      "price" : "50"
+    },
+    "08" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Kaju katli",
+      "price" : "50"
+    },
+    "09" : {
+      "avaQuantity" : "3",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Modak",
+      "price" : "50"
+    },
+    "10" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 4pcs",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Adhirasam",
+      "price" : "30"
+    },
+    "11" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Gajar Halwa",
+      "price" : "60"
+    },
+    "12" : {
+      "avaQuantity" : "9",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Kheer",
+      "price" : "40"
+    },
+    "13" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 6pcs",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Malpua",
+      "price" : "60"
+    },
+    "14" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 6pcs",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Mawa Peda",
+      "price" : "60"
+    },
+    "15" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 6pcs",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Peda",
+      "price" : "40"
+    },
+    "17" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Ras-Malai",
+      "price" : "40"
+    },
+    "18" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Sheer",
+      "price" : "60"
+    },
+    "19" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Cheeni Mitai",
+      "price" : "80"
+    },
+    "20" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Tirunelveli Halwa",
+      "price" : "70"
+    },
+    "21" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Shrikand",
+      "price" : "90"
+    },
+    "22" : {
+      "avaQuantity" : "9",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Soan Papdi",
+      "price" : "120"
+    },
+    "23" : {
+      "avaQuantity" : "10",
+      "description" : "Quantity 1 Packet, contains 250gm",
+      "discount" : "0",
+      "image" : "add a image url for sweet",
+      "name" : "Jalebi",
+      "price" : "50"
+    }
+  },
+  "Updates" : {
+    "app_name" : "rj_sweets_v5.0_16-03-2020.apk",
+    "changelog" : " Change log(Note: Add a space after comma or at start of the changelog for a better arrangement in app eg: ( hi, hello) ) ",
+    "update_url" : "new_update_url",
+    "version" : update_version (Not in inverted comma, coz its a double value)
+  },
+  "flags" : {
+    "latestVersion" : 5.1,
+    "makeOrders" : false,
+    "makeOrdersReason" : "Due to COVID-19 Outbreak, No orders will be accepted & placed order will be rejected automatically and refunded if paid.",
+    "mandatoryLatestUpdate" : false,
+    "splashUpdateCheck" : false
+  }
+}
